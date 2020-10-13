@@ -1,0 +1,5 @@
+commit 38ec12cf0d6a226e4f216f78772dd750f3d8dde2
+Author: Emmett Lalish <elalish@google.com>
+Date:   Tue Oct 13 08:55:20 2020 -0700
+
+    added getDimensions() (#1632)
